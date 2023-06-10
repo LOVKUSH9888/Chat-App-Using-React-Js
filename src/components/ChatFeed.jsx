@@ -10,6 +10,7 @@ const ChatFeed = (props) => {
   const chat = chats && chats[activeChat];
 
   // Function to render read receipts for each message
+  //User seen the msg functionlity
   const renderReadReceipts = (message, isMyMessage) =>
     chat.people.map(
       (person, index) =>
