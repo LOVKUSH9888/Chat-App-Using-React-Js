@@ -1,3 +1,18 @@
+######
+User cred : - 
+username = Lovkush
+password = 123123
+
+
+2nd User :
+
+username = Vinod
+password = 123123
+
+
+Website : - https://chatengine.io/projects/df24f361-c963-43c6-8aea-43b88ef8e98e#users
+
+
 #Steps to create this app :-
 1. Create Vite APP
 2. npm i @ant-design/icons axios react-chat-engine
@@ -9,11 +24,8 @@
 
 7. Making it all Dynamic into the APP .jsx
 
-
-User cred : - 
-
-username = Lovkush
-password = 123123
+8. Clearning the credentials 
+==> Inspect element -> Applications -> Local storage - > Local Storage - RIghtclik and clear
 
 
 Learning : - 
